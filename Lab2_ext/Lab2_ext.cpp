@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main() // Hello World!
+int main()
 {
 	
 	// Show entry screen
